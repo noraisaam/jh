@@ -1,0 +1,29 @@
+
+
+.header {
+    background-image: url('image/books-5937823_640.jpg');
+    background-size: cover;
+    height: 200px;
+}
+
+
+
+
+.logo {
+    margin-left: 20px;
+    width: 200px;
+}
+
+ 
+.div1
+{
+background-color: azure;
+}
+.div2
+{
+background-color: blue;
+}
+.div3
+{
+background-color: brown;
+}
